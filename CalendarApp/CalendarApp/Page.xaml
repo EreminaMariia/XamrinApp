@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalendarApp.Page">
+    <StackLayout HorizontalOptions="Center">
+        <Frame HeightRequest="50">
+        </Frame>
+        <Label HorizontalOptions="Center" x:Name="year" Text=""></Label>
+        <Label HorizontalOptions="Center" x:Name="month" Text=""></Label>
+        <Grid x:Name="grid" HorizontalOptions="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Button x:Name="before_before_yesterday" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="0" Grid.Row="0" />
+            <Button x:Name="before_yesterday" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="1" Grid.Row="0" />
+            <Button x:Name="yesterday" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="2" Grid.Row="0" />
+            <Button x:Name="today" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="Lavender" Clicked="Button_Click" 
+                    Grid.Column="3" Grid.Row="0" />
+            <Button x:Name="tomorrow" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="4" Grid.Row="0" />
+            <Button x:Name="after_tomorrow" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="5" Grid.Row="0" />
+            <Button x:Name="after_after_tomorrow" Text="" CornerRadius ="30" BorderWidth="1" BackgroundColor ="White" Clicked="Button_Click" 
+                    Grid.Column="6" Grid.Row="0" />
+            <Entry x:Name="taskEntry"  Placeholder = "Новая задача" 
+                   Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="6"/>
+            <Button x:Name="add_button" Text="+" BackgroundColor ="Lavender" Clicked="Add_Click"
+                   Grid.Column="0" Grid.Row="1"/>
+            <ScrollView Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="7">
+                <StackLayout>
+                    <StackLayout x:Name="tasks"></StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </StackLayout>
+    
+    
+</ContentPage>

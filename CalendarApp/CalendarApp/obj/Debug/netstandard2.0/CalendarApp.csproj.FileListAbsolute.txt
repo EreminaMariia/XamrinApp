@@ -1,0 +1,16 @@
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\bin\Debug\netstandard2.0\CalendarApp.deps.json
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\bin\Debug\netstandard2.0\CalendarApp.dll
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\bin\Debug\netstandard2.0\ref\CalendarApp.dll
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\bin\Debug\netstandard2.0\CalendarApp.pdb
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.csproj.AssemblyReference.cache
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.AssemblyInfoInputs.cache
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.AssemblyInfo.cs
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.csproj.CoreCompileInputs.cache
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.dll
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\ref\CalendarApp.dll
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\CalendarApp.pdb
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp\obj\Debug\netstandard2.0\Page.xaml.g.cs

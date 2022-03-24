@@ -1,0 +1,1 @@
+C:\Users\Kitar\source\repos\CalendarApp\CalendarApp\CalendarApp.UWP\CalendarApp.UWP.csproj;x86
